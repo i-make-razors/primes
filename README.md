@@ -1,1 +1,3 @@
-# Collection of small functions to calculate prime numbers
+# Primes
+
+Collection of small functions to calculate prime numbers
