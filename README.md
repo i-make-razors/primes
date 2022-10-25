@@ -17,5 +17,5 @@ gcc asm/primes.o -o primes
 time ./asm/primes
 
 #Python
-time python3 py/primes.py
+time python3 python/primes.py
 ```
