@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+dotnet/bin/
+
+dotnet/obj/
+
+asm/primes
+
+c/primes
