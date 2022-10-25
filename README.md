@@ -1,6 +1,6 @@
 # Primes
 
-Collection of small functions to calculate prime numbers for performance testing
+Collection of small functions to calculate prime numbers for performance testing of different programming languages
 
 ``` bash
 # Dotnet
