@@ -21,7 +21,7 @@ time python3 python/primes.py
 
 #Rust
 rustc rust/primes.rs
-./rust/primes
+time ./rust/primes
 ```
 
 ## Results
